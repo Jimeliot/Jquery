@@ -1,1 +1,2 @@
-# Jquery_learning
+# Jquery
+## Selectors, Events, DOM Manipulation, Animation and Ajax
